@@ -1,0 +1,1 @@
+A new XE module called FAQ has been uploaded, it allows XE users add a FAQ page to XE.
